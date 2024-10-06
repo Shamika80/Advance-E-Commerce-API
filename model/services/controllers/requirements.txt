@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+mysqlclient  
+Flask-Caching
+Flask-Limiter
+flasgger
+PyJWT
